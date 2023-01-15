@@ -1,0 +1,7 @@
+main: me.gedashu.testplugin.Main
+name: TestPlugin
+version: ${project.version}
+description: A Minecraft Test Plugin
+api-version: 1.19
+author: gedashu
+website: https://github.com/gedashu/TestPlugin
